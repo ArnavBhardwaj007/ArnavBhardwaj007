@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ArnavBhardwaj007
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning python&sql
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on my ig @_arnavbhardwaj007
+- 😄 Pronouns: nerd/student
+- ⚡ Fun fact: ...
